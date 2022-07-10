@@ -2,6 +2,11 @@
 
 StarkWorld is a 3D game built on StarkNet, player can mint a land NFT (ERC721) and build on the land. Player can also explore the world and discover what other players have built.
 
+Visit Hackathon Demo
+[https://starkworld.vercel.app/](https://starkworld.vercel.app/)
+
+## Documentation
+
 See [StarkWorld Gitbook](https://bo0.gitbook.io/starkworld/) for more details
 
 ## Contracts
