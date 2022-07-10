@@ -20,3 +20,32 @@ npm run dev
 # or
 yarn dev
 ```
+
+## References to other StarkNet Project
+
+[Aspect](https://www.aspect.co/)
+[Briq]https://briq.construction/
+
+NFT example reference: MEANOTYK [@MEANOTYK](https://twitter.com/MEANOTYK) Disc: Meanotyk#2053
+
+## Frameworks used by this project
+
+3D Environment
+[react-three-fiber](https://github.com/pmndrs/react-three-fiber)
+[drei](https://github.com/pmndrs/drei)
+
+Deployment
+[NextJs](https://nextjs.org/)
+[Vercel](https://vercel.com/)
+
+IPFS
+[IPFS Pinata](https://www.pinata.cloud)
+
+## Attribution
+
+React Minecraft by Daniel [@barelydaniel](https://twitter.com/barelydaniel)
+
+https://www.youtube.com/watch?v=ZnXKmODEFHA
+https://github.com/danba340/minecraft-react
+
+Flaticon Icon: https://www.flaticon.com/free-icon/map_854878?term=world&page=2&position=4&page=2&position=4&related_id=854878&origin=search
